@@ -1,5 +1,4 @@
 # QR-Generator
-This project allows you to generate QR codes using HTML, CSS, and JavaScript
 
 ## Features
 * Generate QR codes for any text input
