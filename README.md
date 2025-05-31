@@ -19,11 +19,11 @@ Ensure you have Node.js and npm installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Milind-Yadav07/QR-Generator.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd qr-generator
+   cd QR-Generator
    ```
 3. Install dependencies:
    ```bash
